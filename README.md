@@ -23,6 +23,10 @@ Supervised learning techniques and algorithms: linear regression, logistic regre
 ## 🛠 Robotic Process Automation | RPA
 Automation Anywhere, UiPath
 
+## 🛠 Others
+ERP ODOO EE/CE V14, 15, 16, 17
+
+
 
 
 
